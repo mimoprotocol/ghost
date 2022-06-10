@@ -14,11 +14,9 @@
     "transport": "Direct"
   },
   "logging": {
-    "transports": [
-      "stdout"
-    ]
+    "transports": ["stdout"]
   },
   "paths": {
-    "contentPath": "/var/lib/ghost/content"
+    "contentPath": "/var/lib/ghost/content1"
   }
 }
