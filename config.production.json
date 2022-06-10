@@ -17,6 +17,6 @@
     "transports": ["stdout"]
   },
   "paths": {
-    "contentPath": "/var/lib/ghost/content1"
+    "contentPath": "/var/lib/ghost/content"
   }
 }
