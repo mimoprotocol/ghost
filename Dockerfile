@@ -5,4 +5,4 @@ WORKDIR $GHOST_INSTALL
 COPY . .
 
 ENTRYPOINT []
-CMD ["./start.sh"]
+CMD ["npx", "serve", "-p", "10000"]
